@@ -1,0 +1,35 @@
+body{
+    background-color:#59D7E2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 25px;
+    color:#E3D559;
+}
+
+
+.container_1{
+    display:flex
+}
+
+.box_1{
+    margin:10px;
+}
+.box_2{
+    margin:10px;
+}
+.box_3{
+    margin:10px;
+}
+
+.float_image{
+    float:right;
+    width:1000px;
+    
+}
+
+img{
+    height:400px;
+    width:250px;
+}
